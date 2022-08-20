@@ -1,5 +1,7 @@
 # SK_ImageReplacer
 
+Lightwave 3D Modeler用のLScriptです。
+
 ## Overview
 Modelerにロードされているイメージをファイルのフルパスを確認しながら置き換えます。
 
