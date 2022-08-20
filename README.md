@@ -3,7 +3,7 @@
 Lightwave 3D Modeler用のLScriptです。
 
 ## Overview
-Modelerにロードされているイメージをファイルのフルパスを確認しながら置き換えます。
+Modelerにロードされているイメージをファイルのフルパスを確認しながら置き換えることができます。
 
 ## How To Use
 ![SK_ImageReplacer](SK_ImageReplacer.png)
